@@ -1,0 +1,5 @@
+comment = 'date_string_converter:  Created by pgrx'
+default_version = '@CARGO_VERSION@'
+module_pathname = '$libdir/date_string_converter'
+relocatable = false
+superuser = true
